@@ -13,7 +13,9 @@
 
 参考
 
-[1]: [InnoDB 中一棵 B+ 树能存多少行数据？](https://mp.weixin.qq.com/s/IHdsLjoF8RLyDOYvfor81A)
+1: [InnoDB 中一棵 B+ 树能存多少行数据？](https://mp.weixin.qq.com/s/IHdsLjoF8RLyDOYvfor81A)
+
+3: [MySQL索引背后的数据结构及算法原理]([2]: http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 
 [2]: http://blog.codinglabs.org/articles/theory-of-mysql-index.html
 

@@ -2,6 +2,8 @@
 >```sql
 >show VARIABLES like 'innodb_page_size'
 >```
+
+![](https://github.com/Jerry-Lee618/cs/blob/main/resources/pics/innodb-page.png)
 2.
 
 

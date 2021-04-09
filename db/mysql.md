@@ -3,7 +3,7 @@
 >show VARIABLES like 'innodb_page_size'
 >```
 ![](https://github.com/Jerry-Lee618/cs/blob/main/resources/pics/innodb-page.png)
-2.B+树聚簇索引[2]
+2.[B+树聚簇索引][2]
 >_非叶子节点存放键值+指针（指针6字节，页地址）
 >_叶子节点存放行数据，叶节点大小和内节点一般不一样大
 >_增加相邻叶节点顺序访问指针

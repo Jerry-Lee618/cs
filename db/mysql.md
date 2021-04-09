@@ -1,4 +1,8 @@
-
+1.Innodb页大小
+>```sql
+>show VARIABLES like 'innodb_page_size'
+>```
+2.
 
 
 

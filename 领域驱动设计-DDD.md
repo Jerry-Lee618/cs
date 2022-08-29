@@ -6,3 +6,4 @@
   - [阿里技术专家详解DDD系列 第三讲 - Repository模式](https://zhuanlan.zhihu.com/p/348706530)
   - [阿里技术专家详解DDD系列 第四讲 - 领域层设计规范](https://zhuanlan.zhihu.com/p/356518017)
   - [阿里技术专家详解DDD系列 第五讲：聊聊如何避免写流水账代码](https://zhuanlan.zhihu.com/p/366395817)
+  - [DDD实战源码](https://github.com/ouchuangxin/leave-sample)

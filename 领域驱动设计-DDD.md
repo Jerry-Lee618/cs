@@ -7,3 +7,4 @@
   - [阿里技术专家详解DDD系列 第四讲 - 领域层设计规范](https://zhuanlan.zhihu.com/p/356518017)
   - [阿里技术专家详解DDD系列 第五讲：聊聊如何避免写流水账代码](https://zhuanlan.zhihu.com/p/366395817)
   - [DDD实战源码](https://github.com/ouchuangxin/leave-sample)
+  - [聚合（根）、实体、值对象精炼思考总结](https://developer.aliyun.com/article/53459)

@@ -7,3 +7,6 @@
 * 查看监听端口的进程
 > * sudo lsof -nP | grep LISTEN | grep 端口号
 > * lsof -nP -iTCP -sTCP:LISTEN
+* 查看某个进程的环境变量
+> * cat /proc/<pid>/environ | tr '\0' '\n'
+> *  
